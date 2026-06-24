@@ -1,8 +1,9 @@
 # Ollama
 
-New lessons to learn ollama 
-Reference course: 
-[Ollama Course](https://www.udemy.com/course/mastering-local-llms-with-ollama-and-python-doing-projects/?couponCode=KEEPLEARNING)
+Multistack Models
+- Text
+- Images
+- Videos
 
 ## App Mockup
 ![App Text Chat Mockup](https://github.com/desusmita001/Ollama/blob/main/screenshots/1.png)
